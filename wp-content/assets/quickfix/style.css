@@ -1,0 +1,71 @@
+/*
+.btn-conso-container {
+    margin-bottom: 30px;
+}
+
+.video-slide-img-container:before {
+    content: "";
+    display: inline-block;
+    height: 0;
+    width: 0;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-left: 21px solid #002a5d;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+    transform: translate(-50%, -50%);
+}
+
+.video-slide-img-container:after {
+    content: '';
+    height: 60px;
+    width: 60px;
+    background: white;
+    opacity: 0.5;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 0;
+    transform: translate(-50%, -50%);
+}
+
+.home-prescripteur .prescripteurs-ressources {
+    display: block;
+}
+
+.swiper-slide.product-slide {
+    height: auto;
+}
+
+.wpgb-block-3 {
+    min-height: 56px;
+}
+
+.marque-extra-cta {
+    display: flex;
+    justify-content: center;
+}
+
+
+.marque-extra-cta svg{
+        margin: 0 -10px 0 -26px;
+}
+
+.marque-extra-cta a:hover svg path{
+        fill:white;
+}
+.marque-extra-cta svg path{
+transition: all 350ms cubic-bezier(.455, .03, .515, .955);
+}
+
+.gamme-slide-pagination, .advice-slide-pagination {
+    z-index: inherit;
+}
+
+.swiper-container{
+    overflow:hidden;
+}
+*/

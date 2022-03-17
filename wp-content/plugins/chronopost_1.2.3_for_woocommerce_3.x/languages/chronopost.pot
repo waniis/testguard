@@ -1,0 +1,1381 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Chronopost\n"
+"POT-Creation-Date: 2020-05-13 14:29+0200\n"
+"PO-Revision-Date: 2020-05-13 14:29+0200\n"
+"Last-Translator: Olivier Gorzalka <olivier@behaba.com>\n"
+"Language-Team: Olivier Gorzalka <olivier@behaba.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: chronopost.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: admin/class-chronopost-admin.php:114
+msgid "Select a time"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:116
+#: admin/partials/chronopost-admin-display.php:661
+msgid "To"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:117
+#: admin/partials/chronopost-admin-display.php:652
+msgid "From"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:118
+msgid "Min weight"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:119
+msgid "Max weight"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:120
+msgid "Shipping Rate"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:121
+msgid "Delete selected rates"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:122
+msgid "Add new rate"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-chronopost-admin.php:193
+#: includes/class-chronopost-product.php:75
+msgid "Chronopost"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:233
+msgid "Shipment"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:246
+#: admin/partials/chronopost-admin-shipping.php:190
+msgid "Download label"
+msgid_plural "Download labels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-chronopost-admin.php:252
+#: admin/partials/chronopost-admin-shipping.php:58
+msgid "Use contract"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:298
+msgid "Advalorem insurance"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:301 admin/class-chronopost-admin.php:328
+#: admin/partials/chronopost-admin-display.php:630
+#: admin/partials/chronopost-admin-display.php:706
+#: admin/partials/chronopost-admin-shipping.php:171
+#: includes/class-chronopost-product.php:473
+#: includes/products/chronoprecise.php:193
+msgid "No"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:302 admin/class-chronopost-admin.php:329
+#: admin/partials/chronopost-admin-display.php:631
+#: admin/partials/chronopost-admin-display.php:707
+#: admin/partials/chronopost-admin-shipping.php:172
+#: includes/class-chronopost-product.php:474
+#: includes/products/chronoprecise.php:192
+msgid "Yes"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:307
+msgid "Insurance amount"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:317
+#: admin/partials/chronopost-admin-shipping.php:63
+msgid "Ship On Saturday"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:332
+#: admin/partials/chronopost-admin-shipping.php:175
+msgid "Not active"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:337
+#: admin/partials/chronopost-admin-shipping.php:59
+msgid "Parcels number"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:346
+msgid "Parcels dimensions"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:381
+#: admin/partials/chronopost-admin-shipping.php:19
+#: admin/partials/chronopost-admin-shipping.php:191
+#: admin/partials/chronopost-admin-shipping.php:193
+msgid "Generate label"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:391 admin/class-chronopost-admin.php:399
+#: admin/partials/chronopost-admin-shipping.php:204
+msgid "Return label"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:401
+#: admin/partials/chronopost-admin-shipping.php:206
+msgid "Generate return label"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:586
+msgid "Valid username or password"
+msgstr ""
+
+#: admin/class-chronopost-admin.php:595
+msgid ""
+"A system error occured. Please contact the Chronopost support if the problem "
+"persists."
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:13
+msgid "Chronopost Daily Dockets"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:17
+#: admin/partials/chronopost-admin-exports.php:17
+#: admin/partials/chronopost-admin-shipping.php:17
+msgid "Select bulk action"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:18
+#: admin/partials/chronopost-admin-exports.php:18
+#: admin/partials/chronopost-admin-shipping.php:18
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:19
+msgid "Export daily dockets"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:21
+#: admin/partials/chronopost-admin-exports.php:21
+#: admin/partials/chronopost-admin-shipping.php:22
+msgid "Apply"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:30
+#: admin/partials/chronopost-admin-daily-docket.php:120
+#: admin/partials/chronopost-admin-exports.php:30
+#: admin/partials/chronopost-admin-exports.php:125
+#: admin/partials/chronopost-admin-shipping.php:31
+#: admin/partials/chronopost-admin-shipping.php:223
+msgid "Previous page"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:30
+#: admin/partials/chronopost-admin-daily-docket.php:120
+#: admin/partials/chronopost-admin-exports.php:30
+#: admin/partials/chronopost-admin-exports.php:125
+#: admin/partials/chronopost-admin-shipping.php:31
+#: admin/partials/chronopost-admin-shipping.php:223
+msgid "&laquo;"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:31
+#: admin/partials/chronopost-admin-daily-docket.php:121
+#: admin/partials/chronopost-admin-exports.php:31
+#: admin/partials/chronopost-admin-exports.php:126
+#: admin/partials/chronopost-admin-shipping.php:32
+#: admin/partials/chronopost-admin-shipping.php:224
+msgid "Next page"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:31
+#: admin/partials/chronopost-admin-daily-docket.php:121
+#: admin/partials/chronopost-admin-exports.php:31
+#: admin/partials/chronopost-admin-exports.php:126
+#: admin/partials/chronopost-admin-shipping.php:32
+#: admin/partials/chronopost-admin-shipping.php:224
+msgid "&raquo;"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:32
+#: admin/partials/chronopost-admin-daily-docket.php:122
+#: admin/partials/chronopost-admin-exports.php:32
+#: admin/partials/chronopost-admin-exports.php:127
+#: admin/partials/chronopost-admin-shipping.php:33
+#: admin/partials/chronopost-admin-shipping.php:225
+msgid "Page"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:38
+#: admin/partials/chronopost-admin-daily-docket.php:128
+#: admin/partials/chronopost-admin-exports.php:38
+#: admin/partials/chronopost-admin-exports.php:133
+#: admin/partials/chronopost-admin-shipping.php:39
+#: admin/partials/chronopost-admin-shipping.php:231
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:49
+#: admin/partials/chronopost-admin-exports.php:49
+#: admin/partials/chronopost-admin-shipping.php:52
+msgid "Select all"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:52
+#: admin/partials/chronopost-admin-exports.php:52
+#: admin/partials/chronopost-admin-shipping.php:55
+#: includes/products/chronoprecise.php:220
+msgid "Status"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:53
+#: admin/partials/chronopost-admin-exports.php:53
+#: admin/partials/chronopost-admin-shipping.php:56
+msgid "Order"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:54
+#: admin/partials/chronopost-admin-exports.php:54
+#: admin/partials/chronopost-admin-shipping.php:57
+msgid "Shipped to"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:55
+#: admin/partials/chronopost-admin-exports.php:55
+msgid "Date"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:68
+#: admin/partials/chronopost-admin-exports.php:69
+#: admin/partials/chronopost-admin-shipping.php:80
+#, php-format
+msgid "Select order #%s"
+msgstr ""
+
+#. translators: 1: first name 2: last name
+#: admin/partials/chronopost-admin-daily-docket.php:81
+#: admin/partials/chronopost-admin-exports.php:82
+#: admin/partials/chronopost-admin-shipping.php:93
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:85
+#: admin/partials/chronopost-admin-exports.php:86
+#: admin/partials/chronopost-admin-shipping.php:97
+msgid "Guest"
+msgstr ""
+
+#: admin/partials/chronopost-admin-daily-docket.php:89
+#: admin/partials/chronopost-admin-exports.php:90
+#: admin/partials/chronopost-admin-shipping.php:101
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:45
+msgid "You must define a minimun amount in order to enabled the insurance."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:56
+msgid "TEST Contract"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:70
+msgid "Chronopost notification about weight"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:79
+msgid "Thank you for using the Chronopost plugin for WooCommerce!"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:81
+#, php-format
+msgid "Don't forget to <a href=\"%s\">configure your Chronopost Settings.</a>"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:82
+#, php-format
+msgid "Start <a href=\"%s\">configuring your Chronopost delivery methods</a>"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:83
+msgid "Enjoy our plugin ;)"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:85
+msgid "The Chronopost Team"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:118
+#: admin/partials/chronopost-admin-display.php:119
+msgid "Shipments"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:127
+#: admin/partials/chronopost-admin-display.php:128
+#: admin/partials/chronopost-admin-display.php:1117
+msgid "Import trackings"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:136
+#: admin/partials/chronopost-admin-display.php:137
+msgid "Daily docket"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:145
+#: admin/partials/chronopost-admin-display.php:146
+#: admin/partials/chronopost-admin-exports.php:19
+#: admin/partials/chronopost-admin-exports.php:112
+msgid "Export CSS"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:166
+msgid "Accounts configuration"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:181
+msgid "Shipper address"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:188
+#: admin/partials/chronopost-admin-display.php:291
+#: admin/partials/chronopost-admin-display.php:394
+msgid "Civility"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:196
+#: admin/partials/chronopost-admin-display.php:299
+#: admin/partials/chronopost-admin-display.php:402
+msgid "Name"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:204
+#: admin/partials/chronopost-admin-display.php:307
+#: admin/partials/chronopost-admin-display.php:410
+msgid "Name 2"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:212
+#: admin/partials/chronopost-admin-display.php:315
+#: admin/partials/chronopost-admin-display.php:418
+msgid "Address"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:220
+#: admin/partials/chronopost-admin-display.php:323
+#: admin/partials/chronopost-admin-display.php:426
+msgid "Address 2"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:228
+#: admin/partials/chronopost-admin-display.php:331
+#: admin/partials/chronopost-admin-display.php:434
+msgid "Zipcode"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:236
+#: admin/partials/chronopost-admin-display.php:339
+#: admin/partials/chronopost-admin-display.php:442
+msgid "City"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:244
+#: admin/partials/chronopost-admin-display.php:347
+#: admin/partials/chronopost-admin-display.php:450
+msgid "Country"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:252
+#: admin/partials/chronopost-admin-display.php:355
+#: admin/partials/chronopost-admin-display.php:458
+msgid "Contact name"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:260
+#: admin/partials/chronopost-admin-display.php:363
+#: admin/partials/chronopost-admin-display.php:466
+msgid "Email"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:268
+#: admin/partials/chronopost-admin-display.php:371
+#: admin/partials/chronopost-admin-display.php:474
+msgid "Phone"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:276
+#: admin/partials/chronopost-admin-display.php:379
+#: admin/partials/chronopost-admin-display.php:482
+msgid "Mobile"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:284
+msgid "Billing address"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:387
+msgid "Return address"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:490
+msgid "Printing options"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:497
+msgid "Print Mode"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:505
+msgid "Mailbox delivery option"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:512
+msgid "Enable bal option"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:520
+msgid "Saturday shipping"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:527
+msgid "Slot when saturday option is enabled"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:535
+msgid "Ad Valorem Insurance"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:542
+msgid "Enable Ad Volorem Insurance"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:550
+msgid "Minimum amount to be insured"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:559
+msgid "Corsica Supplement"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:566
+msgid "Supplement amount"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:575
+msgid "CSS Export Settings"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:582
+msgid "File Extension"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:590
+msgid "File charset"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:598
+msgid "End of line character"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:606
+msgid "Field delimiter"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:614
+msgid "Field separator"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:623
+msgid "Reset form data"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:684
+msgid ""
+"Offer to your customers the first Express delivery service with the official "
+"Chronopost module for WooCommerce. With Chronopost, your customer will have "
+"the choice of the main delivery modes within 24h : at home,  at a Pickup "
+"point or at the office !"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:686
+msgid ""
+"Your customers will also have the rdv service :  They are notified by email "
+"or SMS the day before the delivery and can reschedule the delivery or ask to "
+"be delivered at a pickup point among more than 17 000 points (post offices, "
+"Pickup relay or Chronopost agencies)."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:688
+msgid ""
+"Expand your business internationally with Chronopost international delivery "
+"service which is included in this module."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:690
+msgid ""
+"Find all these services in the Chronopost e-commerce pack : MyChrono. To "
+"activate the module on your site, contact us at "
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:735
+#: includes/class-chronopost-product.php:483
+msgid "None"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:736
+msgid "Simple quote"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:737
+msgid "Double quotes"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:745
+msgid "Semicolon"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:746
+msgid "Comma"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:764
+msgid "Print PDF Laser with proof."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:765
+msgid "Print PDF laser without proof"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:766
+msgid "Print PDF thermal"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:774
+#: admin/partials/chronopost-admin-display.php:917
+#: admin/partials/chronopost-admin-display.php:1001
+msgid "Mr."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:775
+#: admin/partials/chronopost-admin-display.php:918
+#: admin/partials/chronopost-admin-display.php:1002
+msgid "Mrs"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:776
+#: admin/partials/chronopost-admin-display.php:919
+#: admin/partials/chronopost-admin-display.php:1003
+msgid "Miss"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:866
+msgid ""
+"Put here all your Chronopost contracts. You can change the default contract "
+"for each shipping method in the Carrier settings page."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:868
+msgid ""
+"This will permanently delete this contract. Are you sure you want to "
+"proceed ?"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:871
+#: admin/partials/chronopost-admin-display.php:897
+msgid "Remove contract"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:874
+msgid "Account #"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:877
+msgid "Account number"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:881
+msgid "Account label"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:885
+msgid "Sub-account number"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:889
+msgid "Chronopost password"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:893
+msgid "Test my login datas"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:907
+msgid "Add a new contract"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:1123
+msgid "Import tracking informations"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:1153
+msgid "Please choose the order reference and tracking number columns number"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:1169
+msgid "Please upload only CSV files."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:1184
+msgid "Unable to find tracking numbers (wrong column ?)"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:1200
+#, php-format
+msgid "Tracking informations updated. Total processed : %s"
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:1202
+msgid "There was a problem with your upload."
+msgstr ""
+
+#: admin/partials/chronopost-admin-display.php:1206
+msgid "No file was uploaded."
+msgstr ""
+
+#: admin/partials/chronopost-admin-exports.php:13
+msgid "Chronopost Exports"
+msgstr ""
+
+#: admin/partials/chronopost-admin-exports.php:56
+msgid "CSS"
+msgstr ""
+
+#: admin/partials/chronopost-admin-import-tracking.php:6
+msgid ""
+"Use this function to massively assign Chronopost parcel numbers to the "
+"desired orders. \n"
+"                            This is useful if you edit your waybills from a "
+"third-party application. (Eg ChronoShip Office ChronoShip Station ...).\n"
+"                            The expected file must be in CSV format with "
+"semicolon separator.<br/><br/>It must contain 2 columns : "
+"<ol><li>WooCommerce orders reference</li><li>\n"
+"                            Chronopost tracking number</li></ol><br/>An "
+"email contaning the tracking number and a link \n"
+"                            to follow the parcel will be sent to the "
+"customer."
+msgstr ""
+
+#: admin/partials/chronopost-admin-import-tracking.php:13
+msgid "Order reference column number"
+msgstr ""
+
+#: admin/partials/chronopost-admin-import-tracking.php:15
+msgid "Tracking column number"
+msgstr ""
+
+#: admin/partials/chronopost-admin-import-tracking.php:17
+msgid "Pick a file to upload"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:13
+msgid "Chronopost shipments"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:20
+msgid "Cancel label"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:48
+msgid "weight"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:48
+msgid "height"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:48
+msgid "length"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:48
+msgid "width"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:64
+msgid "Tracking"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:65
+msgid "Labels"
+msgstr ""
+
+#: admin/partials/chronopost-admin-shipping.php:66
+msgid "Return labels"
+msgstr ""
+
+#: emails/customer-return-label.php:28
+#: emails/plain/customer-return-label.php:25
+msgid "Hello,"
+msgstr ""
+
+#: emails/customer-return-label.php:30
+#: emails/plain/customer-return-label.php:27
+#, php-format
+msgid ""
+"You will soon be making a Chronopost shipment for your backorder #%s. The "
+"person who sent you this mail has already prepared the waybill you will use. "
+"After printing, affix the shipping letter in an adhesive plastic pouch and "
+"affix it to your shipment. Note that the bar code must be clearly visible."
+msgstr ""
+
+#: emails/customer-return-label.php:32
+#: emails/plain/customer-return-label.php:29
+msgid "Regards."
+msgstr ""
+
+#: includes/class-chronopost-cron.php:80
+msgid "Your order has been delivered to the customer"
+msgstr ""
+
+#: includes/class-chronopost-order.php:122
+#, php-format
+msgid ""
+"Your order has just been shipped. The tracking number is %s, you can track "
+"your shipment by <a href=\"%s\">clicking here</a>"
+msgstr ""
+
+#: includes/class-chronopost-package.php:43
+#, php-format
+msgid ""
+"Warning, missing weight for Product %s. You should fill this information to "
+"make right label estimates."
+msgstr ""
+
+#: includes/class-chronopost-product.php:73
+#: includes/class-chronopost-product.php:74
+msgid "Chronopost Product"
+msgstr ""
+
+#: includes/class-chronopost-product.php:347
+msgid "Free"
+msgstr ""
+
+#: includes/class-chronopost-product.php:396
+msgid "Enable?"
+msgstr ""
+
+#: includes/class-chronopost-product.php:398
+msgid "Enable the shipping method"
+msgstr ""
+
+#: includes/class-chronopost-product.php:402
+msgid "Contract"
+msgstr ""
+
+#: includes/class-chronopost-product.php:408
+msgid "Checkout Title"
+msgstr ""
+
+#: includes/class-chronopost-product.php:409
+msgid "This title appear during the checkout"
+msgstr ""
+
+#: includes/class-chronopost-product.php:415
+msgid "Activate Quickcost"
+msgstr ""
+
+#: includes/class-chronopost-product.php:417
+msgid "Automatically calculate the shipping cost with Quickcost"
+msgstr ""
+
+#: includes/class-chronopost-product.php:419
+msgid ""
+"Quickcost will calculate the cost of an item, depending on the rates "
+"negociated with Chronopost. This option replaces the use of the fee schedule."
+msgstr ""
+
+#: includes/class-chronopost-product.php:423
+msgid "Quickcost URL"
+msgstr ""
+
+#: includes/class-chronopost-product.php:428
+msgid "Value to add to Quickcost"
+msgstr ""
+
+#: includes/class-chronopost-product.php:434
+msgid "Type of marge"
+msgstr ""
+
+#: includes/class-chronopost-product.php:438
+msgid "Amount (€)"
+msgstr ""
+
+#: includes/class-chronopost-product.php:439
+msgid "Percentage (%)"
+msgstr ""
+
+#: includes/class-chronopost-product.php:446
+msgid "Application fee"
+msgstr ""
+
+#: includes/class-chronopost-product.php:455
+msgid "Handling fee"
+msgstr ""
+
+#: includes/class-chronopost-product.php:464
+msgid "Tracking URL"
+msgstr ""
+
+#: includes/class-chronopost-product.php:469
+msgid "Deliver on Saturday?"
+msgstr ""
+
+#: includes/class-chronopost-product.php:478
+msgid "Tax status"
+msgstr ""
+
+#: includes/class-chronopost-product.php:482
+msgid "Taxable"
+msgstr ""
+
+#: includes/class-chronopost-product.php:487
+msgid "Enable Free Shipping"
+msgstr ""
+
+#: includes/class-chronopost-product.php:489
+msgid ""
+"Enable \"Free Shipping\" feature depending on below minimum order amount"
+msgstr ""
+
+#: includes/class-chronopost-product.php:491
+msgid ""
+"This option will enable the \"Free shipping\" feature. Depending on the "
+"customer cart amount the shipping cost will be free or not."
+msgstr ""
+
+#: includes/class-chronopost-product.php:495
+msgid "Free Shipping minimum order amount required"
+msgstr ""
+
+#: includes/class-chronopost-product.php:535
+msgid "Shipping rates"
+msgstr ""
+
+#: includes/class-chronopost-product.php:545
+msgid "Shipping Zone Name"
+msgstr ""
+
+#: includes/class-chronopost-product.php:546
+msgid "Countries"
+msgstr ""
+
+#: includes/class-chronopost-product.php:552
+msgid "Add New Shipping Zone"
+msgstr ""
+
+#: includes/class-chronopost-product.php:553
+msgid "Delete Selected Zones"
+msgstr ""
+
+#: includes/class-chronopost-product.php:676
+msgid ""
+"You can't enable this product with this contract. Please contact us for more "
+"informations."
+msgstr ""
+
+#: includes/class-chronopost-return-email.php:28
+msgid "Return Label Email"
+msgstr ""
+
+#: includes/class-chronopost-return-email.php:31
+msgid "Email sent to customers when return labels are generated"
+msgstr ""
+
+#: includes/class-chronopost-return-email.php:52
+#, php-format
+msgid "%s: your Chronopost return label"
+msgstr ""
+
+#: includes/class-chronopost-return-email.php:63
+msgid "Your Chronopost return label"
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:49
+msgid "An error occured during the label creation."
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:70
+msgid "Please select an action in the \"Bulk Actions\" list"
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:121
+msgid "Please select orders before generate labels"
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:127
+msgid "Return label has already been generated."
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:134
+msgid "An error occured while generating your labels. Please try again."
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:848
+#, php-format
+msgid ""
+"Warning : the total weight of the packages exceeds %skg for the #%s order, "
+"you will need to generate at least one additional label."
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:862
+msgid ""
+"An error occured during the label creation. Please check if this contract "
+"can edit labels for this carrier."
+msgstr ""
+
+#: includes/class-chronopost-shipment.php:865
+#: includes/class-chronopost-webservice.php:388
+#: includes/class-chronopost-webservice.php:392
+msgid ""
+"An error occured during the label creation. Please check the customer datas "
+"or your Chronopost settings."
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:382
+msgid "Webservice error:"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:389
+#: includes/class-chronopost-webservice.php:393
+msgid "System error:"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:1086
+msgid "The return label has been generated and has just been sent"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:1105
+#, php-format
+msgid "Return labels are not available for this country : %s"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:1112
+msgid "Return labels are not available for this method:"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:1340
+#, php-format
+msgid "The label %s was cancelled"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:1346
+#, php-format
+msgid "An error occured when cancelling the %s label"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:1349
+#, php-format
+msgid ""
+"the %s package does not belong to the contract passed as parameter or has "
+"not yet been registered in the Chronopost tracking system"
+msgstr ""
+
+#: includes/class-chronopost-webservice.php:1352
+#, php-format
+msgid ""
+"The %s package can not be cancelled because it was supported by Chronopost"
+msgstr ""
+
+#: includes/functions-chronopost-helpers.php:123
+msgid "Information Chronopost"
+msgstr ""
+
+#: includes/functions-chronopost-helpers.php:134
+msgid "I understand"
+msgstr ""
+
+#: includes/functions-chronopost-helpers.php:354
+#, php-format
+msgid "One or several packages are above the weight limit (%s kg)"
+msgstr ""
+
+#: includes/functions-chronopost-helpers.php:357
+#, php-format
+msgid "One or several packages are above the size limit (%s cm)"
+msgstr ""
+
+#: includes/functions-chronopost-helpers.php:360
+#, php-format
+msgid ""
+"One or several packages are above the total (L+2H+2l) size limit (%s cm)"
+msgstr ""
+
+#: includes/products/chrono10.php:19
+msgid "Express delivery before 10am at home"
+msgstr ""
+
+#: includes/products/chrono10.php:20 includes/products/chrono10.php:21
+msgid "Chrono 10"
+msgstr ""
+
+#: includes/products/chrono10.php:22
+msgid ""
+"Parcels delivered the next day before 10am at your home. The day before "
+"delivery, You'll be notified by e-mail and SMS."
+msgstr ""
+
+#: includes/products/chrono13.php:21
+msgid "Express delivery before 1pm at home"
+msgstr ""
+
+#: includes/products/chrono13.php:22 includes/products/chrono13.php:23
+msgid "Chrono 13"
+msgstr ""
+
+#: includes/products/chrono13.php:24
+msgid ""
+"Parcels delivered the next day before 1pm at your home. The day before "
+"delivery, You'll be notified by e-mail and SMS."
+msgstr ""
+
+#: includes/products/chrono18.php:21
+msgid "Express delivery before 6pm at home"
+msgstr ""
+
+#: includes/products/chrono18.php:22 includes/products/chrono18.php:23
+msgid "Chrono 18"
+msgstr ""
+
+#: includes/products/chrono18.php:24
+msgid ""
+"Parcels delivered the next day before 6pm at your home. The day before "
+"delivery, You'll be notified by e-mail and SMS."
+msgstr ""
+
+#: includes/products/chronoclassic.php:19
+msgid "Express delivery at home"
+msgstr ""
+
+#: includes/products/chronoclassic.php:20
+#: includes/products/chronoclassic.php:21
+msgid "Chrono Classic"
+msgstr ""
+
+#: includes/products/chronoclassic.php:22
+#: includes/products/chronosameday.php:22
+msgid "Parcels delivered to Europe in 1 to 3 days"
+msgstr ""
+
+#: includes/products/chronoexpress.php:19
+msgid "Worldwide Express delivery"
+msgstr ""
+
+#: includes/products/chronoexpress.php:20
+#: includes/products/chronoexpress.php:21
+msgid "Chrono Express"
+msgstr ""
+
+#: includes/products/chronoexpress.php:22
+msgid ""
+"Parcels delivered to Europe in 1 to 3 days, 48 hours to the DOM and 2 to 5 "
+"days to the rest of the world."
+msgstr ""
+
+#: includes/products/chronoprecise.php:22
+msgid "Delivery on appointment"
+msgstr ""
+
+#: includes/products/chronoprecise.php:23
+#: includes/products/chronoprecise.php:24
+msgid "Chrono Precise"
+msgstr ""
+
+#: includes/products/chronoprecise.php:25
+msgid ""
+"By appointment at your home! Order delivered on the day of your choice in a "
+"2-hour time slot. You can reprogram your delivery in case of absence."
+msgstr ""
+
+#: includes/products/chronoprecise.php:47
+#, php-format
+msgid "Please <a href=\"#container-method-%s\">select an appointment</a>"
+msgstr ""
+
+#: includes/products/chronoprecise.php:64
+msgid ""
+"An error occured while validating your data, please refresh the page and try "
+"again."
+msgstr ""
+
+#: includes/products/chronoprecise.php:156
+msgid "Date of delivery"
+msgstr ""
+
+#: includes/products/chronoprecise.php:158
+msgid "Date from which the weeks list of the RDV option will be calculated"
+msgstr ""
+
+#: includes/products/chronoprecise.php:165
+msgid "Day of delivery +"
+msgstr ""
+
+#: includes/products/chronoprecise.php:166
+msgid "day(s)"
+msgstr ""
+
+#: includes/products/chronoprecise.php:170
+msgid "or day and hour of delivery"
+msgstr ""
+
+#: includes/products/chronoprecise.php:176
+msgid "Hour of delivery"
+msgstr ""
+
+#: includes/products/chronoprecise.php:188
+msgid "Show cost levels"
+msgstr ""
+
+#: includes/products/chronoprecise.php:204
+msgid "Cost levels"
+msgstr ""
+
+#: includes/products/chronoprecise.php:217
+#, php-format
+msgid "Appointment %s"
+msgstr ""
+
+#: includes/products/chronoprecise.php:227
+msgid "Price"
+msgstr ""
+
+#: includes/products/chronoprecise.php:249
+msgid "Slots to be closed"
+msgstr ""
+
+#: includes/products/chronoprecise.php:261
+msgid "Add New Slot"
+msgstr ""
+
+#: includes/products/chronoprecise.php:262
+msgid "Delete Selected Slot"
+msgstr ""
+
+#: includes/products/chronoprecise.php:335
+#: includes/products/chronoprecise.php:418
+#, php-format
+msgid "Appointment for delivery on %s between %s and %s"
+msgstr ""
+
+#: includes/products/chronoprecise.php:337
+#: public/class-chronopost-public.php:140
+msgid "Edit"
+msgstr ""
+
+#: includes/products/chronoprecise.php:339
+#: includes/products/chronoprecise.php:342
+msgid "Select an appointment"
+msgstr ""
+
+#: includes/products/chronorelais.php:23
+msgid "Express delivery in Pickup relay"
+msgstr ""
+
+#: includes/products/chronorelais.php:24 includes/products/chronorelais.php:25
+msgid "Chrono Relay"
+msgstr ""
+
+#: includes/products/chronorelais.php:26
+msgid ""
+"In relay Pickup within 24h! Order delivered the next day in the pickup relay "
+"of your choice, among 7500 points spread all over France."
+msgstr ""
+
+#: includes/products/chronorelais.php:54
+msgid "Can change postcode ?"
+msgstr ""
+
+#: includes/products/chronorelais.php:56
+msgid "Allow the user to change the postcode on the map"
+msgstr ""
+
+#: includes/products/chronorelais.php:60
+msgid "Max distance search"
+msgstr ""
+
+#: includes/products/chronorelais.php:65
+msgid "Max pickup relay number"
+msgstr ""
+
+#: includes/products/chronorelais.php:83
+#, php-format
+msgid "Please <a href=\"#container-method-%s\">select a pickup relay</a>"
+msgstr ""
+
+#: includes/products/chronorelais.php:202
+#: public/class-chronopost-public.php:139
+msgid "Select a pickup relay"
+msgstr ""
+
+#: includes/products/chronorelais.php:223
+msgid "View on Google Map"
+msgstr ""
+
+#: includes/products/chronorelais.php:274
+msgid "No relay points found. Please check your address information."
+msgstr ""
+
+#: includes/products/chronorelaisdom.php:23
+msgid "Chronopost - Dom delivery in Pickup relay"
+msgstr ""
+
+#: includes/products/chronorelaisdom.php:24
+#: includes/products/chronorelaisdom.php:25
+msgid "Chrono Relais Dom"
+msgstr ""
+
+#: includes/products/chronorelaisdom.php:26
+msgid ""
+"Parcels delivered to DOM in 1 to 3 days in the Pickup point of your choice."
+msgstr ""
+
+#: includes/products/chronorelaiseurope.php:23
+msgid "Chronopost - Express delivery in Pickup relay"
+msgstr ""
+
+#: includes/products/chronorelaiseurope.php:24
+#: includes/products/chronorelaiseurope.php:25
+msgid "Chrono Relais Europe"
+msgstr ""
+
+#: includes/products/chronorelaiseurope.php:26
+msgid "In relay Pickup! Order delivered in the pickup relay of your choice"
+msgstr ""
+
+#: includes/products/chronosameday.php:19
+msgid "Same-day express delivery at home"
+msgstr ""
+
+#: includes/products/chronosameday.php:20
+#: includes/products/chronosameday.php:21
+msgid "Chrono Sameday"
+msgstr ""
+
+#: includes/products/chronosameday.php:30
+msgid "Disable after"
+msgstr ""
+
+#: public/class-chronopost-public.php:124
+msgid "Prev week"
+msgstr ""
+
+#: public/class-chronopost-public.php:125
+msgid "Next week"
+msgstr ""
+
+#: public/class-chronopost-public.php:141
+msgid "Loading, please wait&hellip;"
+msgstr ""
+
+#: public/class-chronopost-public.php:142
+msgid "Mon"
+msgstr ""
+
+#: public/class-chronopost-public.php:143
+msgid "Tue"
+msgstr ""
+
+#: public/class-chronopost-public.php:144
+msgid "Wed"
+msgstr ""
+
+#: public/class-chronopost-public.php:145
+msgid "Thu"
+msgstr ""
+
+#: public/class-chronopost-public.php:146
+msgid "Fri"
+msgstr ""
+
+#: public/class-chronopost-public.php:147
+msgid "Sat"
+msgstr ""
+
+#: public/class-chronopost-public.php:148
+msgid "Sun"
+msgstr ""
+
+#: public/class-chronopost-public.php:149
+msgid "Infos"
+msgstr ""
+
+#: public/class-chronopost-public.php:150
+msgid "Opening hours"
+msgstr ""
+
+#: public/class-chronopost-public.php:151
+msgid "Closed"
+msgstr ""
+
+#: templates/chronoprecise.php:124 templates/chronoprecise.php:189
+msgid "Confirm time slot"
+msgstr ""
+
+#: templates/chronoprecise.php:199
+msgid ""
+"It's not possible to use this service for your order yet, we are currently "
+"working to allow new cities to benefit from this new service."
+msgstr ""
+
+#: templates/chronorelais.php:4
+msgid "Chronopost Pickup Relays"
+msgstr ""
+
+#: templates/chronorelais.php:30
+msgid ""
+"Please select one of the 5 pickup relays displayed below to serve as the "
+"delivery address."
+msgstr ""
+
+#: templates/chronorelais.php:38
+msgid "Update"
+msgstr ""
+
+#: templates/chronorelais.php:53
+msgid "Confirm relay pickup"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.chronopost.fr/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Chronopost shipping methods for WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Adexos"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.adexos.fr"
+msgstr ""

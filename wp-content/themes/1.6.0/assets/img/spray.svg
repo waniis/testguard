@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="150" height="150"></rect>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="3" cx="77" cy="75" r="70"></circle>
+        <rect id="Rectangle" fill="#FFFFFF" x="42" y="56" width="24" height="19"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" x="42" y="56" width="24" height="19"></rect>
+        <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="77" y="52" width="8" height="26"></rect>
+        <polygon id="Rectangle" fill="#FFFFFF" points="69 56 77 51.8773499 77 78 69 75"></polygon>
+        <rect id="Rectangle-Copy" fill="#FFFFFF" x="42" y="77" width="11" height="30"></rect>
+        <polygon id="Rectangle-Copy" fill="#FFFFFF" transform="translate(34.000000, 68.000000) rotate(-315.000000) translate(-34.000000, -68.000000) " points="29.2928932 55.7071068 37.7928932 64.2071068 38.7071068 80.2928932 30.7071068 80.2928932"></polygon>
+        <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="38" y="109" width="19" height="7"></rect>
+        <line x1="93" y1="67" x2="130.947922" y2="68.9887663" id="Line-5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square" stroke-dasharray="0,7"></line>
+        <line x1="93" y1="61.0580878" x2="130.158637" y2="59" id="Line-5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square" stroke-dasharray="0,7"></line>
+        <line x1="92" y1="54.1586483" x2="127.318385" y2="49" id="Line-5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square" stroke-dasharray="0,7"></line>
+        <line x1="92" y1="74" x2="127.741319" y2="79.8786126" id="Line-5" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square" stroke-dasharray="0,7"></line>
+    </g>
+</svg>

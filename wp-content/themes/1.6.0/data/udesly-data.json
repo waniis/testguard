@@ -1,0 +1,363 @@
+{
+  "pages": [
+    "index",
+    "ui-kit",
+    "detail_category",
+    "checkout",
+    "paypal-checkout",
+    "order-confirmation",
+    "panier",
+    "mon-compte",
+    "contact",
+    "home",
+    "single-nuancier"
+  ],
+  "plugins": [
+    "advanced-custom-fields"
+  ],
+  "cpt": [
+    "advice",
+    "reference",
+    "video",
+    "testimony",
+    "catalogue"
+  ],
+  "data": {
+    "404": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "index": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "ui-kit": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "detail_product": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "detail_sku": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "detail_category": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "checkout": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "paypal-checkout": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "order-confirmation": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "panier": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "mon-compte": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "liste-produits": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "store-locator": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "contact": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "liste-references": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "conseils": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "references": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "recompenses": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "histoire": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "expertise": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "qui-sommes-nous": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "liste-conseils": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "engagement": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template-default": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "home": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "home-particuliers": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "home-pro": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template-default-blue": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template-home-prescripteurs": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template-coming-soon-blue": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template-commercial": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "home-industriels": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template-lasure-incolore": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "template-lasure-coloree": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "liste-ressource-filter": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "liste-ressource-no-filters": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "video": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "temoignages": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "catalogue": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "produit-adapte": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "nuancier": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "single-nuancier": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    }
+  }
+}

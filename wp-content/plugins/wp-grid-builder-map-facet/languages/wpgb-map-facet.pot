@@ -1,0 +1,521 @@
+# Copyright (C) 2021 Loïc Blascos
+# This file is distributed under the same license as the WP Grid Builder - Map Facet plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Grid Builder - Map Facet 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-grid-builder-map-facet\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-07T15:03:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: wpgb-map-facet\n"
+
+#. Plugin Name of the plugin
+msgid "WP Grid Builder - Map Facet"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpgridbuilder.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add maps from Google Map, Mapbox or Leaflet to display markers and to filter."
+msgstr ""
+
+#. Author of the plugin
+msgid "Loïc Blascos"
+msgstr ""
+
+#: includes/class-async.php:70
+msgid "Sorry, an unknown error occurred."
+msgstr ""
+
+#: includes/class-block.php:69
+#: includes/class-block.php:95
+msgid "Geo Distance"
+msgstr ""
+
+#: includes/class-facets.php:71
+msgid "Map"
+msgstr ""
+
+#: includes/class-facets.php:81
+#: includes/class-sort.php:49
+#: includes/facets/class-geo.php:95
+msgid "Geolocation"
+msgstr ""
+
+#: includes/class-facets.php:106
+msgid "Map Coordinates"
+msgstr ""
+
+#: includes/class-settings.php:53
+#: includes/fields/coordinates.php:20
+#: includes/fields/post.php:19
+msgid "Coordinates"
+msgstr ""
+
+#: includes/class-sort.php:50
+msgid "Distance"
+msgstr ""
+
+#: includes/facets/class-geo.php:206
+#: includes/fields/appearance.php:175
+msgid "Enter a location"
+msgstr ""
+
+#: includes/facets/class-geo.php:208
+#: includes/fields/controls.php:140
+msgid "Locate Me"
+msgstr ""
+
+#: includes/facets/class-geo.php:210
+#: includes/fields/controls.php:186
+msgid "Show results within"
+msgstr ""
+
+#: includes/facets/class-map.php:199
+#: includes/fields/behaviour.php:66
+#: includes/fields/behaviour.php:67
+msgid "Search as I move the map"
+msgstr ""
+
+#: includes/fields/api.php:20
+msgid "API Type"
+msgstr ""
+
+#: includes/fields/api.php:25
+msgid "Map API"
+msgstr ""
+
+#: includes/fields/api.php:44
+msgid "Geocoding API"
+msgstr ""
+
+#: includes/fields/api.php:62
+msgid "API Key"
+msgstr ""
+
+#: includes/fields/api.php:95
+msgid "Access Token"
+msgstr ""
+
+#: includes/fields/api.php:128
+msgid "Map Results"
+msgstr ""
+
+#: includes/fields/api.php:132
+msgid "Display all markers"
+msgstr ""
+
+#: includes/fields/api.php:133
+msgid "Display markers in current page"
+msgstr ""
+
+#: includes/fields/api.php:147
+msgid "Map Filtering"
+msgstr ""
+
+#: includes/fields/api.php:160
+msgid "Restrict Search to"
+msgstr ""
+
+#: includes/fields/api.php:165
+msgid "All countries"
+msgstr ""
+
+#: includes/fields/api.php:166
+msgid "Google API is limited to 5 countries at maximum."
+msgstr ""
+
+#: includes/fields/api.php:430
+#: includes/fields/api.php:461
+msgid "Places to Search"
+msgstr ""
+
+#: includes/fields/api.php:435
+#: includes/fields/api.php:466
+msgid "Selected place types may appear as a top-level suggestions while searching."
+msgstr ""
+
+#: includes/fields/api.php:436
+#: includes/fields/api.php:467
+msgid "All types"
+msgstr ""
+
+#: includes/fields/api.php:438
+msgid "Geocode"
+msgstr ""
+
+#: includes/fields/api.php:439
+#: includes/fields/api.php:476
+msgid "Address"
+msgstr ""
+
+#: includes/fields/api.php:440
+msgid "Establishment"
+msgstr ""
+
+#: includes/fields/api.php:441
+msgid "Regions"
+msgstr ""
+
+#: includes/fields/api.php:442
+msgid "Cities"
+msgstr ""
+
+#: includes/fields/api.php:469
+msgid "Country"
+msgstr ""
+
+#: includes/fields/api.php:470
+msgid "Region"
+msgstr ""
+
+#: includes/fields/api.php:471
+msgid "Postal Code"
+msgstr ""
+
+#: includes/fields/api.php:472
+msgid "District"
+msgstr ""
+
+#: includes/fields/api.php:473
+msgid "Place"
+msgstr ""
+
+#: includes/fields/api.php:474
+msgid "Locality"
+msgstr ""
+
+#: includes/fields/api.php:475
+msgid "Neighborhood"
+msgstr ""
+
+#: includes/fields/api.php:477
+#: includes/fields/layers.php:25
+msgid "Points of Interest"
+msgstr ""
+
+#: includes/fields/appearance.php:37
+#: includes/fields/appearance.php:169
+msgid "Appearance"
+msgstr ""
+
+#: includes/fields/appearance.php:42
+#: includes/fields/appearance.php:64
+#: includes/fields/appearance.php:109
+msgid "Map Style"
+msgstr ""
+
+#: includes/fields/appearance.php:46
+msgid "Roadmap"
+msgstr ""
+
+#: includes/fields/appearance.php:47
+#: includes/fields/appearance.php:75
+msgid "Satellite"
+msgstr ""
+
+#: includes/fields/appearance.php:48
+msgid "Hybrid"
+msgstr ""
+
+#: includes/fields/appearance.php:49
+msgid "Terrain"
+msgstr ""
+
+#: includes/fields/appearance.php:71
+msgid "Street"
+msgstr ""
+
+#: includes/fields/appearance.php:72
+msgid "Light"
+msgstr ""
+
+#: includes/fields/appearance.php:73
+msgid "Dark"
+msgstr ""
+
+#: includes/fields/appearance.php:74
+msgid "Outdoors"
+msgstr ""
+
+#: includes/fields/appearance.php:78
+msgid "Custom"
+msgstr ""
+
+#: includes/fields/appearance.php:91
+msgid "Map Custom Style"
+msgstr ""
+
+#: includes/fields/appearance.php:126
+msgid "Map Aspect Ratio"
+msgstr ""
+
+#: includes/fields/appearance.php:174
+msgid "Search Placeholder"
+msgstr ""
+
+#: includes/fields/appearance.php:181
+msgid "Display Searched Area"
+msgstr ""
+
+#: includes/fields/appearance.php:182
+msgid "Draw a circle on the map to visualize the searched area."
+msgstr ""
+
+#: includes/fields/appearance.php:188
+msgid "Searched Area Color"
+msgstr ""
+
+#: includes/fields/behaviour.php:20
+msgid "Behaviour"
+msgstr ""
+
+#: includes/fields/behaviour.php:25
+msgid "Drag to Pan"
+msgstr ""
+
+#: includes/fields/behaviour.php:31
+msgid "Scroll to Zoom"
+msgstr ""
+
+#: includes/fields/behaviour.php:57
+msgid "Pan to Search"
+msgstr ""
+
+#: includes/fields/behaviour.php:58
+msgid "Display an option over the map that allows user to search while moving the map."
+msgstr ""
+
+#: includes/fields/behaviour.php:65
+msgid "Pan to Search Label"
+msgstr ""
+
+#: includes/fields/block.php:21
+msgid "Map Blocks"
+msgstr ""
+
+#: includes/fields/block.php:23
+msgid "Geolocation Distance"
+msgstr ""
+
+#: includes/fields/block.php:38
+msgid "Distance Text"
+msgstr ""
+
+#: includes/fields/block.php:53
+msgid "Distance Unit"
+msgstr ""
+
+#: includes/fields/block.php:55
+#: includes/fields/controls.php:204
+msgid "Kilometer"
+msgstr ""
+
+#: includes/fields/block.php:56
+#: includes/fields/controls.php:205
+msgid "Mile"
+msgstr ""
+
+#: includes/fields/block.php:71
+msgid "Decimal Places"
+msgstr ""
+
+#: includes/fields/block.php:85
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/fields/block.php:99
+msgid "Thousands Separator"
+msgstr ""
+
+#: includes/fields/controls.php:20
+msgid "Controls"
+msgstr ""
+
+#: includes/fields/controls.php:25
+msgid "Zoom"
+msgstr ""
+
+#: includes/fields/controls.php:31
+msgid "Scale"
+msgstr ""
+
+#: includes/fields/controls.php:44
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/fields/controls.php:57
+msgid "Rotate"
+msgstr ""
+
+#: includes/fields/controls.php:70
+msgid "Map Type"
+msgstr ""
+
+#: includes/fields/controls.php:83
+msgid "Street View"
+msgstr ""
+
+#: includes/fields/controls.php:96
+msgid "Geolocate"
+msgstr ""
+
+#: includes/fields/controls.php:127
+msgid "User's Location"
+msgstr ""
+
+#: includes/fields/controls.php:132
+msgid "Locate Me Button"
+msgstr ""
+
+#: includes/fields/controls.php:133
+msgid "Display a button in the search field to locate the user."
+msgstr ""
+
+#: includes/fields/controls.php:139
+msgid "Button Aria Label"
+msgstr ""
+
+#: includes/fields/controls.php:141
+msgid "Message used to provide the label to any assistive technologies."
+msgstr ""
+
+#: includes/fields/controls.php:173
+msgid "Search Radius"
+msgstr ""
+
+#: includes/fields/controls.php:178
+msgid "Radius Control"
+msgstr ""
+
+#: includes/fields/controls.php:179
+msgid "Display a number field below the search field to allow the user to adjust the search radius."
+msgstr ""
+
+#: includes/fields/controls.php:185
+msgid "Radius Label"
+msgstr ""
+
+#: includes/fields/controls.php:200
+msgid "Radius Unit"
+msgstr ""
+
+#: includes/fields/controls.php:212
+msgid "Default Radius"
+msgstr ""
+
+#: includes/fields/controls.php:221
+msgid "Min Radius"
+msgstr ""
+
+#: includes/fields/controls.php:239
+msgid "Max Radius"
+msgstr ""
+
+#: includes/fields/coordinates.php:25
+msgid "Default Latitude"
+msgstr ""
+
+#: includes/fields/coordinates.php:35
+msgid "Default Longitude"
+msgstr ""
+
+#: includes/fields/coordinates.php:45
+msgid "Default Zoom"
+msgstr ""
+
+#: includes/fields/coordinates.php:53
+msgid "Minimum Zoom"
+msgstr ""
+
+#: includes/fields/coordinates.php:61
+msgid "Maximum Zoom"
+msgstr ""
+
+#: includes/fields/layers.php:20
+msgid "Layers"
+msgstr ""
+
+#: includes/fields/layers.php:30
+msgid "Transit"
+msgstr ""
+
+#: includes/fields/layers.php:35
+msgid "Traffic"
+msgstr ""
+
+#: includes/fields/layers.php:40
+msgid "Bicycling"
+msgstr ""
+
+#: includes/fields/marker.php:20
+msgid "Markers"
+msgstr ""
+
+#: includes/fields/marker.php:25
+msgid "Marker Content"
+msgstr ""
+
+#: includes/fields/marker.php:26
+msgid "Display marker content on click."
+msgstr ""
+
+#: includes/fields/marker.php:32
+msgid "Marker Clustering"
+msgstr ""
+
+#: includes/fields/marker.php:38
+msgid "Min Markers in Cluster"
+msgstr ""
+
+#: includes/fields/marker.php:59
+msgid "Cluster Radius"
+msgstr ""
+
+#: includes/fields/marker.php:60
+msgid "Radius of each cluster when clustering markers in px."
+msgstr ""
+
+#: includes/fields/marker.php:81
+msgid "Cluster Max Zoom"
+msgstr ""
+
+#: includes/fields/marker.php:82
+msgid "Maximum zoom to cluster markers on."
+msgstr ""
+
+#: includes/fields/marker.php:98
+msgid "Marker Icon"
+msgstr ""
+
+#: includes/fields/marker.php:103
+msgid "Marker Icon Highlighted"
+msgstr ""
+
+#: includes/fields/marker.php:104
+msgid "The highlighted icon is used instead of the default icon when hovering cards in a grid."
+msgstr ""
+
+#: includes/fields/marker.php:116
+msgid "Marker Size (px)"
+msgstr ""
+
+#: includes/fields/post.php:24
+msgid "Latitude"
+msgstr ""
+
+#: includes/fields/post.php:30
+msgid "Longitude"
+msgstr ""
+
+#: wp-grid-builder-map-facet.php:61
+msgid "<strong>Gridbuilder ᵂᴾ - Map Facet</strong> add-on requires at least <code>Gridbuilder ᵂᴾ v1.1.5</code>. Please update Gridbuilder ᵂᴾ to use Map Facet add-on."
+msgstr ""

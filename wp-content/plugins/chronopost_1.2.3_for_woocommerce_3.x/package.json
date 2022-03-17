@@ -1,0 +1,23 @@
+{
+  "name": "Gulp",
+  "version": "1.0.0",
+  "description": "Gulp packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adexos <contact@adexos.fr> (https://www.adexos.fr/)",
+  "license": "WTFPL",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-combine-media-queries": "latest",
+    "gulp-cache": "latest",
+    "gulp-cleancss": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-sass": "latest",
+    "gulp.spritesmith": "latest",
+    "vinyl-buffer": "latest"
+  }
+}

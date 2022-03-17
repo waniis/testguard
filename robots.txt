@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: / wp-include/
+Allow: /wp-admin/admin-ajax.php Disallow: /wp-content/
+Allow: /wp-content/uploads/ 
+Allow: *.css*
+Allow: *.js*
+Sitemap: https://www.guardindustrie.com/sitemap_index.xml
+
+#on bloque par défaut toutes les facettes au sens large Disallow: /produits-particuliers/?_product_*
+#on bloque par défaut toutes les facettes avec plusieurs valeurs sélectionnées pour un même filtre
+Disallow: **
+#on autorise propriétés seules, on interdit propriétés + autre chose (sens large) allow: /produits-particuliers/?_product_properties=*
+Disallow: /produits-particuliers/?_product_properties=*&*
+#on autorise propriétés + {support | matériaux}
+allow: /produits-particuliers/?_product_properties=*&_product_support=*
+allow: /produits-particuliers/?_product_properties=*&_product_materials=*
+#on bloque propriétés + {support | matériaux} + autre chose
+Disallow: allow: /produits-particuliers/?_product_properties=*&_product_support=*&*
+Disallow: /produits-particuliers/?_product_properties=*&_product_materials=*&*
+#on autorise gamme + { support | matériaux}
+allow: /produits-particuliers/?_product_gamme=*&_product_support=* allow: /produits-particuliers/?_product_gamme=*&_product_materials=*
+
+#on bloque gamme + {support | matériaux} + autre chose
+Disallow: /produits-particuliers/?_product_gamme=*&_product_support=*&* Disallow: /produits-particuliers/?_product_gamme=*&_product_materials=*&*

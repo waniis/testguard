@@ -1,0 +1,17 @@
+/*
+    Theme Name: 1.6.0
+    Author: DISKO
+    Description: Guard industrie
+    Version: 1.6.0
+    License: GPL v2
+    License URI: https://www.gnu.org/licenses/licenses.html
+    Text Domain: guard-industrie
+    
+    == Changelog ==
+    * champ ACF dans template-parts/single-advice.php appelé pour afficher les Produits Associés modifié de advice-related-products à color-related-products (car ce champ a été nommé ainsi dans le ACF du CPT)
+    * Ajout de la fonction rawww_image_srcset (faire un Cmd+Shift+F dans le répertoire parent pour trouver les lieux d'applications).
+    */
+    .screen-reader-text {
+      display: none;
+    }
+    

@@ -1,0 +1,62 @@
+.lpc__admin__order_banner__label_listing thead th, .lpc__admin__order_banner__generate_label__div table thead th{
+	font-weight: bold;
+}
+
+.lpc__admin__order_banner__label_listing .lpc__admin__order_banner__label_listing__body td{
+	vertical-align: top;
+	cursor: default !important;
+}
+
+.lpc__admin__order_banner__warning{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 3rem;
+	margin-bottom: 1rem;
+	width: 100%;
+}
+
+.lpc__admin__order_banner__label_listing .dashicons{
+	font-size: 1rem;
+	cursor: pointer;
+	margin: 0 0.1rem;
+}
+
+.lpc__admin__order_banner__generate_label__package_weight__container,
+.lpc__admin__order_banner__generate_label__total_weight__container{
+	height: 100%;
+	margin-top: 1rem;
+}
+
+.lpc__admin__order_banner__generate_label__generate-label-button__container{
+	text-align: right;
+}
+
+.lpc__admin__order_banner__header{
+	width: 100%;
+}
+
+.lpc__admin__order_banner__header .nav-tab{
+	cursor: pointer;
+}
+
+.lpc__admin__order_banner__generate_label__total_weight{
+	font-weight: bold;
+}
+
+.widefat .lpc__admin__order_banner__generate_label__item__td__checkbox{
+	width: 1px;
+}
+
+.lpc__admin__order_banner__generate_label__shipping_costs__container > label, .lpc__admin__order_banner__generate_label__package_weight__container > label{
+	width: 200px;
+	display: inline-block;
+}
+
+.lpc__admin__order_banner__generate_label__edit_value__container{
+	text-align: right;
+	margin-top: 0.5rem;
+}
+
+.lpc__admin__order_banner__generate_label__edit_value{
+	cursor: pointer;
+}
